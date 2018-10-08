@@ -1,0 +1,20 @@
+﻿Install-Package Microsoft.IdentityModel.Protocol.Extensions
+Install-Package System.IdentityModel.Tokens.Jwt
+Install-Package Microsoft.Owin.Security.OpenIdConnect
+Install-Package Microsoft.Owin.Security.Cookies
+Install-Package Microsoft.Owin.Host.SystemWeb
+Install-Package Microsoft.IdentityModel.Clients.ActiveDirectory
+install-package Microsoft.Owin.Security.ActiveDirectory
+
+BrowserToWebApp
+testuser@itektest.onmicrosoft.com
+orgininal: Zuku4720
+Deepsp@ce0618
+
+https://localhost:44344/
+https://itektest.onmicrosoft.com/BrowserToWebApp
+AppId; 1411b5fe-c4a6-4efd-95c5-9bdb4bc62dbf
+
+WebTestAPI
+https://itektest.onmicrosoft.com/WebTestAPI
+3123485e-8bbb-48a2-bf70-9855a9343d14
